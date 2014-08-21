@@ -1,0 +1,26 @@
+{
+  "name": "project-boilerplate",
+  "version": "0.0.1",
+  "description": "Just make things better",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+  ],
+  "author": "Matheus Lucca do Carmo",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-connect": "^2.0.6",
+    "gulp-jshint": "^1.8.4"
+  }
+}
